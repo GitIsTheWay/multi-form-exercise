@@ -1,0 +1,26 @@
+C:\Users\gheir\source\repos\Multi_forms\Multi_forms\bin\Debug\Multi_forms.exe.config
+C:\Users\gheir\source\repos\Multi_forms\Multi_forms\bin\Debug\Multi_forms.exe
+C:\Users\gheir\source\repos\Multi_forms\Multi_forms\bin\Debug\Multi_forms.pdb
+C:\Users\gheir\source\repos\Multi_forms\Multi_forms\obj\Debug\Multi_forms.csprojAssemblyReference.cache
+C:\Users\gheir\source\repos\Multi_forms\Multi_forms\obj\Debug\Multi_forms.Properties.Resources.resources
+C:\Users\gheir\source\repos\Multi_forms\Multi_forms\obj\Debug\Multi_forms.csproj.GenerateResource.cache
+C:\Users\gheir\source\repos\Multi_forms\Multi_forms\obj\Debug\Multi_forms.csproj.CoreCompileInputs.cache
+C:\Users\gheir\source\repos\Multi_forms\Multi_forms\obj\Debug\Multi_forms.exe
+C:\Users\gheir\source\repos\Multi_forms\Multi_forms\obj\Debug\Multi_forms.pdb
+C:\Users\gheir\source\repos\Multi_forms\Multi_forms\obj\Debug\Multi_forms.Form1.resources
+C:\Users\gheir\source\repos\Multi_forms\Multi_forms\obj\Debug\Multi_forms.PayForm.resources
+C:\Users\gheir\source\repos\Multi_forms\Multi_forms\obj\Debug\Multi_forms.SearchForm.resources
+E:\MY FILES\PROJECTS\VisualStudio\Multi form\Multi_Form\Multi_forms\bin\Debug\Multi_forms.exe.config
+E:\MY FILES\PROJECTS\VisualStudio\Multi form\Multi_Form\Multi_forms\bin\Debug\Multi_forms.exe
+E:\MY FILES\PROJECTS\VisualStudio\Multi form\Multi_Form\Multi_forms\bin\Debug\Multi_forms.pdb
+E:\MY FILES\PROJECTS\VisualStudio\Multi form\Multi_Form\Multi_forms\obj\Debug\Multi_forms.csproj.SuggestedBindingRedirects.cache
+E:\MY FILES\PROJECTS\VisualStudio\Multi form\Multi_Form\Multi_forms\obj\Debug\Multi_forms.Form1.resources
+E:\MY FILES\PROJECTS\VisualStudio\Multi form\Multi_Form\Multi_forms\obj\Debug\Multi_forms.PayForm.resources
+E:\MY FILES\PROJECTS\VisualStudio\Multi form\Multi_Form\Multi_forms\obj\Debug\Multi_forms.Properties.Resources.resources
+E:\MY FILES\PROJECTS\VisualStudio\Multi form\Multi_Form\Multi_forms\obj\Debug\Multi_forms.SearchForm.resources
+E:\MY FILES\PROJECTS\VisualStudio\Multi form\Multi_Form\Multi_forms\obj\Debug\Multi_forms.csproj.GenerateResource.cache
+E:\MY FILES\PROJECTS\VisualStudio\Multi form\Multi_Form\Multi_forms\obj\Debug\Multi_forms.csproj.CoreCompileInputs.cache
+E:\MY FILES\PROJECTS\VisualStudio\Multi form\Multi_Form\Multi_forms\obj\Debug\Multi_forms.exe
+E:\MY FILES\PROJECTS\VisualStudio\Multi form\Multi_Form\Multi_forms\obj\Debug\Multi_forms.pdb
+E:\MY FILES\PROJECTS\VisualStudio\Multi form\Multi_Form\Multi_forms\obj\Debug\Multi_forms.csproj.AssemblyReference.cache
+E:\MY FILES\PROJECTS\VisualStudio\Multi form\Multi_Form\Multi_forms\obj\Debug\Multi_forms.Login.resources
